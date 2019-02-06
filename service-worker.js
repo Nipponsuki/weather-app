@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Nipponsuki/weather-app.git/precache-manifest.8488492f8f20dd12613e90999b0caac9.js"
+  "/Nipponsuki/weather-app.git/precache-manifest.76d0aa5d320e9b01a4a22884f76db82c.js"
 );
 
 workbox.clientsClaim();
