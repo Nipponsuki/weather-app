@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Nipponsuki/weather-app.git/static/media/bg.b6796c73.jpg"
   },
   {
-    "revision": "c66da875fc11bdf4a6a9",
-    "url": "/Nipponsuki/weather-app.git/static/css/main.6ebbde46.chunk.css"
+    "revision": "9f974366ef931fa11791",
+    "url": "/Nipponsuki/weather-app.git/static/css/main.6afd88a6.chunk.css"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "/Nipponsuki/weather-app.git/static/media/spinner.e89bf6cf.gif"
   },
   {
-    "revision": "c66da875fc11bdf4a6a9",
-    "url": "/Nipponsuki/weather-app.git/static/js/main.c66da875.chunk.js"
+    "revision": "9f974366ef931fa11791",
+    "url": "/Nipponsuki/weather-app.git/static/js/main.9f974366.chunk.js"
   },
   {
     "revision": "f4769f9bdb7466be65088239c12046d1",
     "url": "/Nipponsuki/weather-app.git/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
-    "revision": "fa2772327f55d8198301fdb8bcfc8158",
-    "url": "/Nipponsuki/weather-app.git/static/media/glyphicons-halflings-regular.fa277232.woff"
-  },
-  {
     "revision": "448c34a56d699c29117adc64c43affeb",
     "url": "/Nipponsuki/weather-app.git/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  },
+  {
+    "revision": "fa2772327f55d8198301fdb8bcfc8158",
+    "url": "/Nipponsuki/weather-app.git/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/Nipponsuki/weather-app.git/static/css/1.4023a793.chunk.css"
   },
   {
-    "revision": "b66a8efe057c3c8ce2b8dc9c964e413e",
+    "revision": "c7afa5b5c28d8fee18b2bb95f5381ab0",
     "url": "/Nipponsuki/weather-app.git/index.html"
   }
 ];
