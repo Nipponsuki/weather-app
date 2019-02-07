@@ -3,7 +3,7 @@ import spinner from "./spinner.gif";
 
 const Spinner = () => {
   return (
-    <div>
+    <div style={{transform: 'translateX(-20px)'}}>
       <img
         src={spinner}
         alt="Loading.."
